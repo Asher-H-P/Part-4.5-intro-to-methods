@@ -1,0 +1,5 @@
+﻿Build started...
+1>------ Build started: Project: Part 4.5 intro to methods, Configuration: Debug Any CPU ------
+1>  Part 4.5 intro to methods -> X:\My Drive\ISC4U\Part 4\Part 4.5 intro to methods\Part 4.5 intro to methods\bin\Debug\Part 4.5 intro to methods.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build started at 10:48 AM and took 00.329 seconds ==========
